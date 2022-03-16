@@ -1,0 +1,16 @@
+label {
+    background-color: blue;
+    color: white;
+    display: block;
+    padding: 5px;
+}
+
+.form-group {
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+}
+
+input {
+    width: 100%;
+}
